@@ -5,4 +5,4 @@
 - Step 3: Click "Next Round" to play again
 
 Try it out: 
-https://ya-nsh.github.io/Number-Guessing-with-Computer/
+https://deployorg.github.io/Number-Guessing-with-Computer/
